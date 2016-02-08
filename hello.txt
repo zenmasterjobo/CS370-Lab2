@@ -1,2 +1,0 @@
-Different information again
-This is what I want to merge into the master branch
